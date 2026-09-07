@@ -4,6 +4,7 @@
     --text-primary: #F8FAFC;
     --text-secondary: #F1F5F9;
 }
+
 /* Universal */
 body {
     font-family: 'Inter', sans-serif;
@@ -80,6 +81,7 @@ img{
     transform: scaleY(-1);
     background-image: url(../img/accordion/arrow.svg);
 }
+
 /* Navbar Section */
 #main-nav{
     background-color: var(--bg-secondary);
@@ -137,6 +139,7 @@ img{
         width: 80%;
     }
 }
+
 /*Feature Section */
 #feature-section i{
     color: var(--bg-primary);
@@ -146,6 +149,7 @@ img{
     max-width: 160px;
     width: 160px;
 }
+
 /* Blog Section */
 .card-img-top{
     height: 250px;
